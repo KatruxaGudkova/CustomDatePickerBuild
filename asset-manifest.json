@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b15da600.css",
+    "main.js": "/static/js/main.cbea6d47.js",
+    "static/media/calendar.svg": "/static/media/calendar.b05df4932841701b18c7.svg",
+    "index.html": "/index.html",
+    "static/media/clock.svg": "/static/media/clock.ca20aeae44105b77c7a9.svg",
+    "main.b15da600.css.map": "/static/css/main.b15da600.css.map",
+    "main.cbea6d47.js.map": "/static/js/main.cbea6d47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b15da600.css",
+    "static/js/main.cbea6d47.js"
+  ]
+}
